@@ -1,5 +1,5 @@
 # dao-tools-list
-Overview of DAO tools in spreadsheet format
+Overview of DAO tools in spreadsheet format for withtally gitcoin bounty challenge
 
-Submission for withtally bounty challenge for DAO tool list.
-https://github.com/withtally/cc_hackathon/issues/3
+Tool list is now available at: https://docs.google.com/spreadsheets/d/1ezWTcItoHUzmKPdNtYhTxqeoo25m8eG1/
+
